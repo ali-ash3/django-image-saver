@@ -7,7 +7,7 @@ Steps to run this project on local(For Windows):
    .\venv\Scripts\activate
 
 3. Install req.txt:
-    pip insall -r requirement.txt
+    pip install -r requirement.txt
 
 4. Then:
     py manage.py makemigrations
